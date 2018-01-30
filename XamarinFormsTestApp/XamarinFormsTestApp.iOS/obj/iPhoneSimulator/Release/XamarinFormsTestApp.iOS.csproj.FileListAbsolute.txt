@@ -1,0 +1,8 @@
+C:\Users\Brainnovation\source\repos\XamarinFormsTestApp\XamarinFormsTestApp\XamarinFormsTestApp.iOS\obj\iPhoneSimulator\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Brainnovation\source\repos\XamarinFormsTestApp\XamarinFormsTestApp\XamarinFormsTestApp.iOS\obj\iPhoneSimulator\Release\actool\_PartialAppManifest.items
+C:\Users\Brainnovation\source\repos\XamarinFormsTestApp\XamarinFormsTestApp\XamarinFormsTestApp.iOS\obj\iPhoneSimulator\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\Brainnovation\source\repos\XamarinFormsTestApp\XamarinFormsTestApp\XamarinFormsTestApp.iOS\obj\iPhoneSimulator\Release\optimized\
+C:\Users\Brainnovation\source\repos\XamarinFormsTestApp\XamarinFormsTestApp\XamarinFormsTestApp.iOS\obj\iPhoneSimulator\Release\XamarinFormsTestApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Brainnovation\source\repos\XamarinFormsTestApp\XamarinFormsTestApp\XamarinFormsTestApp.iOS\obj\iPhoneSimulator\Release\XamarinFormsTestApp.iOS.App.xaml.g.cs
+C:\Users\Brainnovation\source\repos\XamarinFormsTestApp\XamarinFormsTestApp\XamarinFormsTestApp.iOS\obj\iPhoneSimulator\Release\XamarinFormsTestApp.iOS.MainPage.xaml.g.cs
+C:\Users\Brainnovation\source\repos\XamarinFormsTestApp\XamarinFormsTestApp\XamarinFormsTestApp.iOS\obj\iPhoneSimulator\Release\XamarinFormsTestApp.iOS.csprojResolveAssemblyReference.cache
