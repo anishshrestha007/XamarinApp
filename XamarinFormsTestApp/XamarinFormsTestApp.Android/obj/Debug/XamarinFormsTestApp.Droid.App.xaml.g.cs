@@ -11,8 +11,7 @@
 namespace XamarinFormsTestApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Brainnovation\\source\\repos\\XamarinFormsTestApp\\XamarinFormsTestApp\\Xamar" +
-        "inFormsTestApp\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\SharedMobApps\\XamarinApp\\XamarinFormsTestApp\\XamarinFormsTestApp\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

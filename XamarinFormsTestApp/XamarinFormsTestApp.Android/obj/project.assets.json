@@ -4091,11 +4091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brainnovation\\source\\repos\\XamarinFormsTestApp\\XamarinFormsTestApp\\XamarinFormsTestApp.Android\\XamarinFormsTestApp.Android.csproj",
+      "projectUniqueName": "D:\\SharedMobApps\\XamarinApp\\XamarinFormsTestApp\\XamarinFormsTestApp.Android\\XamarinFormsTestApp.Android.csproj",
       "projectName": "XamarinFormsTestApp.Android",
-      "projectPath": "C:\\Users\\Brainnovation\\source\\repos\\XamarinFormsTestApp\\XamarinFormsTestApp\\XamarinFormsTestApp.Android\\XamarinFormsTestApp.Android.csproj",
+      "projectPath": "D:\\SharedMobApps\\XamarinApp\\XamarinFormsTestApp\\XamarinFormsTestApp.Android\\XamarinFormsTestApp.Android.csproj",
       "packagesPath": "C:\\Users\\Brainnovation\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brainnovation\\source\\repos\\XamarinFormsTestApp\\XamarinFormsTestApp\\XamarinFormsTestApp.Android\\obj\\",
+      "outputPath": "D:\\SharedMobApps\\XamarinApp\\XamarinFormsTestApp\\XamarinFormsTestApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
