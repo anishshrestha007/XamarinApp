@@ -45,8 +45,8 @@ namespace XamarinFormsTestApp.Droid
            var json = Newtonsoft.Json.JsonConvert.SerializeObject(p);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
             var objClint = new HttpClient();
-            objClint.DefaultRequestHeaders.Accept.Clear();
-            objClint.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
+            //objClint.DefaultRequestHeaders.Accept.Clear();
+            //objClint.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             objClint.MaxResponseContentBufferSize = 256000;
             //objClint.BaseAddress = new Uri("http://localhost:4954/");
             var RestUrl = "http://172.18.11.159:9091/api/Employees/";
